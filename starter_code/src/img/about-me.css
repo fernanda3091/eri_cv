@@ -1,0 +1,54 @@
+h3{
+    color:white;
+    text-align: left;
+}
+h1{
+    color:white;
+    text-align: left;
+    font-weight: bolder;
+}
+.presentacion{
+    color:white;
+    
+
+}
+.iconos{
+    padding: 5px;
+    background-color: white;
+    outline-style: solid;
+    outline-color: rgb(20, 20, 231);
+    margin: 6px;
+    border-radius: 5px;;
+}
+.correo{
+    padding: 9px;
+    outline-style: solid;
+    outline-color: rgb(20, 20, 231);
+    margin: 6px;
+}
+
+#about-me{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 170px;
+    margin-top:80px;
+}
+#about-me >div{
+    margin-right: 200px;
+    margin-left: 100px;
+}
+#btn-cv{
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+#foto{
+    border-radius: 15px;
+}
+   
+   

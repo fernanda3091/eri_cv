@@ -1,0 +1,42 @@
+.flex-container-proyectos{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-bottom: 170px;
+}
+.mi{
+    background-color: blue;
+    color:white;
+    font-weight: bolder; 
+    border-left: 3px solid white;
+    border-bottom: 3px solid white;
+}
+
+p{
+    color:white;
+    text-align: left;
+}
+
+.btn-proyecto{
+    padding:15px ; 
+    background-color: blue;   
+    border-radius: 5px;
+    color:white;
+    margin-right: 15px;
+    
+}
+.btn-codigo{
+    padding: 15px;
+    background: none;
+    border: 2px solid blue;
+    border-radius: 5px;
+    color: white; 
+    margin-left: 15px;
+     
+}
+.btn-proyecto .btn-codigo{
+    display:inline-block;
+    /*margin: 1000px,1500px,1000px,1500px;*/
+}
+

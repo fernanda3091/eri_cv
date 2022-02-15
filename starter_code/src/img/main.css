@@ -1,0 +1,27 @@
+body{
+    background: #3d7eaa; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3d7eaa, #ffe47a); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3d7eaa, #ffe47a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+li {
+    display: inline;
+    padding: 80px;
+}
+
+.liDiferente{
+    color:rgb(27, 27, 160);
+    font-weight: 500;
+}
+li{
+    color:white;
+}
+.liLogo{
+    color:rgb(27, 27, 160);
+    font-weight: bolder;
+}
+#btn-cv{
+    color: white;
+    font-weight: bold;
+}
+
+  

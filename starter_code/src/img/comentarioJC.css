@@ -1,0 +1,21 @@
+#comentario{
+    color: blue;
+    text-align: center;
+}
+.transbox{
+    background: white;
+    border: 2px ;
+    opacity: 0.6;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+
+}
+.transbox > p{
+    color: blue;
+    opacity: 1;
+    text-align: center;
+}
+.transbox > p.Erika{
+    color:silver;
+}

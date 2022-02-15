@@ -1,0 +1,21 @@
+#comentariofin{
+    color: blue;
+    text-align: center;
+}
+.transbox3{
+    background: white;
+    border: 2px ;
+    opacity: 0.6;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+
+}
+.transbox3 > p{
+    color: blue;
+    opacity: 1;
+    text-align: center;
+}
+.transbox3 > p.Er{
+    color:silver;
+}
